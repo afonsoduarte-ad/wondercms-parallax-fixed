@@ -1,1 +1,13 @@
-
+{
+  "name": "Parallax Fixed",
+  "author": "Adaptado por Afonso Duarte / OpenAI",
+  "version": "1.0.0",
+  "description": "Versão corrigida do tema Parallax para WonderCMS. Permite alterar imagem do hero, responsivo e com fallback mobile.",
+  "options": {
+    "heroImage": {
+      "type": "image",
+      "label": "Imagem de fundo (Hero)",
+      "default": "/data/files/default-hero.jpg"
+    }
+  }
+}
