@@ -1,1 +1,15 @@
-
+{
+  "name": "Parallax Fixed",
+  "type": "theme",
+  "repo": "https://github.com/USERNAME/wondercms-parallax-fixed",
+  "version": "1.0.0",
+  "download_url": "https://github.com/USERNAME/wondercms-parallax-fixed/archive/refs/heads/main.zip",
+  "modules": [
+    {
+      "path": "theme-parallax-fixed",
+      "name": "Parallax Fixed",
+      "description": "Versão corrigida do tema Parallax para WonderCMS. Suporta troca de imagem de fundo via painel, responsivo e otimizado.",
+      "screenshot": "https://raw.githubusercontent.com/USERNAME/wondercms-parallax-fixed/main/theme-parallax-fixed/screenshot.png"
+    }
+  ]
+}
